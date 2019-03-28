@@ -1,7 +1,7 @@
 #Program 1 Chapter 1 
 #Name: Is Unique
 #Runtime: O(n^2)
-
+#Date: 3/28/2019
 
 def isUniqueChars(mystr):
     if len(mystr) > 128:
