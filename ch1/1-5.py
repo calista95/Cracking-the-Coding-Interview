@@ -1,6 +1,6 @@
 #Program 5 Chapter 1 
 #Name: One Away 
-#Runtime: O(1)
+#Runtime: O(n)
 #Date: 4/1/2019
 #Notes: The removed letter may not be duplicated in a row. For example, bye and byee will not work, since you can remove either one of the e's. 
 #However, it will work if they are separated by at least one other char, like bye and beye.
