@@ -1,6 +1,6 @@
 #Program 8 Chapter 1 
 #Name: zero matrix
-# #Runtime: O(n^2)
+# #Runtime: O(nm)
 #Date: 4/2/2019
 #Notes: 
 
