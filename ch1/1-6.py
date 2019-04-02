@@ -1,4 +1,4 @@
-#Program 5 Chapter 1 
+#Program 6 Chapter 1 
 #Name: String Compression
 #Runtime: O(n)
 #Date: 4/1/2019
